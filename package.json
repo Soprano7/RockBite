@@ -1,0 +1,15 @@
+{
+  "name": "bouncing-ballz",
+  "version": "1.0.0",
+  "description": "Микро-симулятор физики в браузере",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.0",
+    "typescript": "^4.0.0"
+  }
+}
+
